@@ -38,9 +38,11 @@ The three components for back-end development are the Servers, the Database and 
 ## Full Stack Development
 ![image](https://user-images.githubusercontent.com/20568389/131837442-305bb7a6-12e6-4fde-b1c7-090fe7b129df.png)
 When we say Full Stack Development it is the combination of having the capability to do the front-end and back-end. I’m going to present the TOP 3 popular technology stack that you may encounter once you are in the industry.
-- MEAN – is an acronym for MongoDB, Express.js, Angular and Node.js
-- MERN – is an acronym for MongoDB, Express.js, React and Node.js
-- MEVN – is an acronym for MongoDB, Express.js, Vue and Node.js
+
+- **MEAN** – is an acronym for MongoDB, Express.js, Angular and Node.js
+- **MERN** – is an acronym for MongoDB, Express.js, React and Node.js
+- **MEVN** – is an acronym for MongoDB, Express.js, Vue and Node.js
+
 These are combination of the tools being used for the creating websites and applications. The only difference between these stacks is how they are structured and how fast you can develop when using them. It might depend on your interest and the requirements of your application. It's highly recommended to at least know one tech stack.
 
 ## References:
