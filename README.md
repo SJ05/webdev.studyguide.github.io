@@ -1,2 +1,2 @@
 # webdev.studyguide.github.io
-A collection of references to kick start your web development skill!
+An introduction to web development and collection of references to kick start your web development skill!
